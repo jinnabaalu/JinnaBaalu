@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning AWS Audit Manager for SOC2/PCI/GDPR compliance
 - 💬 Ask me about Docker, docker-compose, kubernetes, nginx, caddy, distributed cluster, containerisation
 - 📫 How to reach me : Whatsapp: 9866970525
-- 🌱 I’m working for climate change
+- 🌱 I’m working for climate change - do natural farming, conserving heirloom seeds for maintaing the seed purity for next generation
 
 
 
