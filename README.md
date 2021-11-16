@@ -1,4 +1,4 @@
-# Jinna Balu 
+# Jinna Balu  - [jinnabalu.com](https://jinnabalu.com/)
 
 ## Devops Manager @ Wisestep Inc
 
