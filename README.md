@@ -1,16 +1,18 @@
-### Hi there 👋
+# Jinna Balu 
 
-<!--
-**JinnaBalu/JinnaBalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Devops Manager @ Wisestep Inc
 
-Here are some ideas to get you started:
+## [Resume](https://jinnabalu.com/resume/) | [Profile](https://jinnabalu.com/) | [LinkedIn](https://www.linkedin.com/in/jinna-balu-20368995/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on DevSecOps, Observability Driven Development, Elasticsearch/Redis/Cassandra/Kafka Distributed cluster administration
+- 🌱 I’m currently learning AWS Audit Manager for SOC2/PCI/GDPR compliance
+- 💬 Ask me about Docker, docker-compose, kubernetes, nginx, caddy, distributed cluster, containerisation
+- 📫 How to reach me : Whatsapp: 9866970525
+- 🌱 I’m working for climate change
+
+
+
+## Stackoverflow Profile
+
+<a href="https://stackoverflow.com/users/4348824/jinna-balu"><img src="https://stackoverflow.com/users/flair/4348824.png" width="208" height="58" alt="profile for Jinna Balu at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jinna Balu at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
