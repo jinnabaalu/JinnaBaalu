@@ -3,12 +3,12 @@
 ## Devops Manager @ Wisestep Inc - [Resume](https://jinnabalu.com/resume/) | [Profile](https://jinnabalu.com/) | [LinkedIn](https://www.linkedin.com/in/jinna-balu-20368995/)
 
 
-
-- 🔭 I’m currently working on DevSecOps, Observability Driven Development, Elasticsearch/Redis/Cassandra/Kafka Distributed cluster administration
+-  I’m currently working on DevSecOps, Observability Driven Development, Elasticsearch/Redis/Cassandra/Kafka Distributed cluster administration
 - 🌱 I’m currently learning AWS Audit Manager for SOC2/PCI/GDPR compliance
-- 💬 Ask me about Docker, docker-compose, kubernetes, nginx, caddy, distributed cluster, containerisation
+- 💬 Ask me about Docker, docker-compose, Kubernetes, Nginx, caddy, distributed cluster, containerization
 - 📫 How to reach me : Whatsapp: 9866970525
-- 🌱 I’m working for climate change - do natural farming, conserving heirloom seeds for maintaing the seed purity for next generation
+- 🌱 I’m working for climate change - doing natural farming, conserving heirloom seeds maintaining the seed purity for the next generation
+
 
 
 
