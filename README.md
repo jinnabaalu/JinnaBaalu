@@ -22,11 +22,11 @@
       
 
 <a href="https://www.teacheron.com/tutor-profile/48qN?r=48qN" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
-    </td
+    </td>
     <td>
       <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="jinna-balu-20368995" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jinna-balu-20368995?trk=profile-badge">Jinna Balu</a></div>
-    </td
+    </td>
   </tr>
 </table>
       
