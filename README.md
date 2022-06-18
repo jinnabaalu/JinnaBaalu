@@ -25,11 +25,6 @@
     </td>
    
   </tr>
-  <tr>
-    <td>
-      <iframe src="https://docs.google.com/document/d/e/2PACX-1vQgkrSr1WcveznW_Zf8g68S7uOBcuzC-LOgu8wf0wOukmvvY8ilVsZqOxfS9y_AwfAWR5IEf_hfCatG/pub?embedded=true"></iframe>
-     <td>
-  </tr>
 </table>
 
 
