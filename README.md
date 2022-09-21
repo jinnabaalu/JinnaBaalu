@@ -1,6 +1,6 @@
 # Jinna Balu  - [jinnabalu.com](https://jinnabalu.com/)
 
-## Devops Manager @ Wisestep Inc - [Resume](https://jinnabalu.com/resume/) | [Profile](https://jinnabalu.com/) | [LinkedIn](https://www.linkedin.com/in/jinna-balu-20368995/)
+## Site Reliability Engineer - [Resume](https://jinnabalu.com/resume/) | [Profile](https://jinnabalu.com/) | [LinkedIn](https://www.linkedin.com/in/jinna-balu-20368995/)
 
 
 -  I’m currently working on DevSecOps, Observability Driven Development, Elasticsearch/Redis/Cassandra/Kafka Distributed cluster administration
