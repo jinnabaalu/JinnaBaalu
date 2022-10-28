@@ -16,16 +16,15 @@
 <table>
   <tr>
     <td>
+      <p>Stackoverflow</p>
         <a href="https://stackexchange.com/users/5468915"><img src="https://stackexchange.com/users/flair/5468915.png" width="208" height="58" alt="profile for Jinna Balu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jinna Balu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
     </td>
     <td>
-      
+      <p>Teacher On</p>
 
 <a href="https://www.teacheron.com/tutor-profile/48qN?r=48qN" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
     </td>
-    <td>
-      
-
+    <td>[jinnabalu.com](https://jinnabalu.com/)<br>
 <a href="https://jinnabalu.com" target="_blank" style="display: inline-block;"><img src="https://jinnabalu.com//assets/images/logo.png" style="width: 120px !important; height: 52px !important"></a>
     </td>
    
