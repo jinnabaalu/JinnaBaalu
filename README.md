@@ -23,6 +23,11 @@
 
 <a href="https://www.teacheron.com/tutor-profile/48qN?r=48qN" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
     </td>
+    <td>
+      
+
+<a href="https://jinnabalu.com" target="_blank" style="display: inline-block;"><img src="https://jinnabalu.com//assets/images/logo.png" style="width: 120px !important; height: 52px !important"></a>
+    </td>
    
   </tr>
 </table>
