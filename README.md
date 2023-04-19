@@ -4,10 +4,10 @@
 
 ## [jinnabalu.com](https://jinnabalu.com/) <img src="https://komarev.com/ghpvc/?username=jinnabalu&label=Profile%20views&color=0e75b6&style=flat" alt="jinnabalu" /> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinnabalu&show_icons=true&theme=dark&locale=en" alt="jinnabalu" />.    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinnabalu&" alt="jinnabalu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinnabalu&show_icons=true&theme=dark&locale=en" alt="jinnabalu" />.   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinnabalu&" alt="jinnabalu" /></p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinnabalu" alt="jinnabalu" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jinnabalu&&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Stackoverflow
 <table>
