@@ -4,7 +4,7 @@
 
 ## [jinnabalu.com](https://jinnabalu.com/) <img src="https://komarev.com/ghpvc/?username=jinnabalu&label=Profile%20views&color=0e75b6&style=flat" alt="jinnabalu" /> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinnabalu&show_icons=true&theme=dark&locale=en" alt="jinnabalu" />.   <img width="300" height="150"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinnabalu&" alt="jinnabalu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinnabalu&show_icons=true&theme=dark&locale=en" alt="jinnabalu" />.   <img width="300" height="200"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinnabalu&" alt="jinnabalu" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jinnabalu&&row=1&column=6&theme=matrix&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
