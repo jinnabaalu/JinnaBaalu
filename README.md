@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinnabalu&show_icons=true&theme=dark&locale=en" alt="jinnabalu" />.   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinnabalu&" alt="jinnabalu" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jinnabalu&&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jinnabalu&&row=1&column=6&theme=matrix&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Stackoverflow
