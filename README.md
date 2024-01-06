@@ -27,15 +27,11 @@
 
 - 👨‍💻 All of my projects are available at [jinnabalu.com](jinnabalu.com)
 
-- 📫 How to reach me **jinna.balu@outlook.com**
-
 -  I’m currently working on **DevSecOps, Observability Driven Development, Elasticsearch/Redis/Cassandra/Kafka Distributed cluster administration**
 
 - 🌱 AWS Audit Manager for **SOC2/PCI/GDPR Compliance**
 
 - 💬 Ask me about **Docker, docker-compose, Kubernetes, Nginx, caddy, distributed cluster, containerization**
-
-- 📫 How to reach me : jinna.balu@outlook.com
 
 - 🌱 I’m working for climate change - doing natural farming, conserving heirloom seeds maintaining the seed purity for the next generation
 
