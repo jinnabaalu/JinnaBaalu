@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **How to Contribute to Opensource**
 
-- ⚡ I am a maintainer of [Docker-X](https://docker-x.github.io/)
+- ⚡ I am a maintainer of [Container Talks](https://containertalks.github.io/)
 
 - 👨‍💻 All of my projects are available at [jinnabalu.com](jinnabalu.com)
 
