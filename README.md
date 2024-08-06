@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Jinna Balu</h1>
+<h1 align="center">Hi 👋, I'm Jinna Baalu</h1>
 <h3 align="center">Infrastructure Solution Architect | AWS Cost Optimisation As Service</h3>
 
 ## [jinnabalu.com](https://jinnabalu.com/) <img src="https://komarev.com/ghpvc/?username=jinnabalu&label=Profile%20views&color=0e75b6&style=flat" alt="jinnabalu" /> 
