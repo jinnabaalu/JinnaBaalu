@@ -23,8 +23,6 @@
 
 - 🌱 I’m currently learning **How to Contribute to Opensource**
 
-- ⚡ I am a maintainer of [Container Talks](https://containertalks.github.io/)
-
 - 👨‍💻 All of my projects are available at [jinnabaalu.com](jinnabaalu.com)
 
 -  I’m currently working on **DevSecOps, Observability Driven Development, Elasticsearch/Redis/Cassandra/Kafka Distributed cluster administration**
